@@ -18,13 +18,14 @@ namespace WebApiLibros.Controllers
             this.context = context;
         }
 
-        //GET: api/autor
+        //GET: api/especialidad
         [HttpGet]
         public ActionResult<IEnumerable<Libro>> Get()
         {
             return context.Libros.ToList();
         }
 
+        //GET: api/especialidad/id
         [HttpGet("autor/{id}")]
         public ActionResult<IEnumerable<Libro>> GetAutor(int id)
         {
@@ -43,7 +44,7 @@ namespace WebApiLibros.Controllers
             return libro;
         }
 
-        //api/autor
+        //  POST api/especialidad
         [HttpPost]
         public ActionResult Post(Libro libro)
         {
@@ -57,7 +58,7 @@ namespace WebApiLibros.Controllers
         }
 
         //update
-        //PUT api/autor/{id}
+        //PUT api/especialidad/{id}
         [HttpPut("{id}")]
         public ActionResult Put(int id, [FromBody] Libro libro)
         {
@@ -70,7 +71,7 @@ namespace WebApiLibros.Controllers
             return NoContent();
         }
 
-        //DELETE api/autor/{id}
+        //DELETE api/especialidad/{id}
         [HttpDelete("{id}")]
         public ActionResult<Libro> Delete(int id)
         {
