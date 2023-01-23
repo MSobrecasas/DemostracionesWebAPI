@@ -19,7 +19,8 @@ Post
 
 Put
 
-![image](https://user-images.githubusercontent.com/38269975/214086277-ed08ac13-183c-4ace-8b15-fc34e195917f.png)
+![image](https://user-images.githubusercontent.com/38269975/214087336-bc0dda1d-1ef6-46c9-9cfa-d5a8fb0c6751.png)
+
 
 
 Delete
