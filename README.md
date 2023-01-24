@@ -1,33 +1,35 @@
 # DemostracionesWebAPI
-GET  Todos los libros
-![image](https://user-images.githubusercontent.com/38269975/214085672-f709c4ff-6a1e-4f15-b2ca-aa604f983bd0.png)
-
-GET Libros por Autor Id
-
-![image](https://user-images.githubusercontent.com/38269975/214085813-dca4f7a5-a5a6-4f14-8f92-1bf4f4be2bda.png)
+GET  stores
+![image](https://user-images.githubusercontent.com/38269975/214360313-abbcd36e-2fb2-407f-bbcf-1d4b564301da.png)
 
 
-Get un libro por id
+GET stores Id
 
-![image](https://user-images.githubusercontent.com/38269975/214086061-68f3ce91-191a-4879-a0cf-2985ff04e4bb.png)
+![image](https://user-images.githubusercontent.com/38269975/214360431-ad620b13-9679-46ca-be13-4bb730920f4d.png)
+
+
+Get name store
+
+![image](https://user-images.githubusercontent.com/38269975/214360516-b6f4de5c-6b03-4ad1-87b1-359c9b13b7b2.png)
+
+GET ZIP store
+![image](https://user-images.githubusercontent.com/38269975/214360608-01c9e0fd-0531-43db-92a9-11d0da9d3a87.png)
+
+GET City & State
+
+![image](https://user-images.githubusercontent.com/38269975/214360729-33acf91e-2f0f-4293-83d7-f4aea7f0f14b.png)
 
 
 Post
-
-![image](https://user-images.githubusercontent.com/38269975/214086165-288d2358-e9b8-4962-86ac-41047e71e0a6.png)
-
+![image](https://user-images.githubusercontent.com/38269975/214360788-9058e59c-1017-4dea-9e59-ada3e7d8f67c.png)
 
 Put
 
-![image](https://user-images.githubusercontent.com/38269975/214087336-bc0dda1d-1ef6-46c9-9cfa-d5a8fb0c6751.png)
-
-
+![image](https://user-images.githubusercontent.com/38269975/214360847-1f264a9f-507e-46ea-ab4f-08eeade3c8fb.png)
 
 Delete
 
-![image](https://user-images.githubusercontent.com/38269975/214086370-bfa9e474-406c-45a1-bdf4-7463e3b11c55.png)
+![image](https://user-images.githubusercontent.com/38269975/214360916-bb7f971d-1568-454f-b806-06b670a9c857.png)
 
 
-GET final con todos los cambios 
 
-![image](https://user-images.githubusercontent.com/38269975/214086542-934f82f5-061d-492c-b1a7-361382db2821.png)
